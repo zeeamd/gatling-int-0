@@ -1,0 +1,64 @@
+package com.xxxxxxxxx.pt.xxxxxxxx
+
+import io.gatling.core.Predef._
+import io.gatling.core.feeder.BatchableFeederBuilder
+import io.gatling.http.Predef._
+import scala.util.Random
+import scala.concurrent.duration._
+
+class xxxxxxxxAutoSoftCommit extends Simulation {
+  val GeneratedRecordCount: Int = 50
+  val xxxxxxPauseTime: Int = 100
+  val xxxxCollectionName: String = "sf-stage"
+
+  //custome end point dev for client
+  val zmdUpdateEndpoint: String =
+    s"https://xxxxxxxx.xxxxxx.mxd.abcd.io/sf-doc"
+
+  val httpProtocol = http
+      .baseUrl(zmdUpdateEndpoint)
+      .disableWarmUp
+      .disableCaching
+
+  val zmdUpdateEndpointUsername: String = "user"
+  val zmdUpdateEndpointPassword: String = "pw"
+
+   //val xxxxxxxxxxUrl: String =
+   // s"https://xxxxxxxx-restricted.xxxxxx.mxd.abcd.io/${xxxxCollectionName}/select/"
+
+   val xxxxxxxxxxUrl: String =
+    s"https://xxxxxxxx-restricted.xxxxxx.mxd.abcd.io/${xxxxCollectionName}/delete/"
+
+  val randomFeeder: Iterator[Map[String, String]] =
+    Iterator.continually(Map("id" -> (Random.alphanumeric.take(20).mkString)))
+
+  val lineFeeder: BatchableFeederBuilder[String] = csv(
+    "enwiki.random.lines.csv"
+  ).random
+
+  val orQueryGenerator: String = {
+    (for (n <- 1 to GeneratedRecordCount)
+      yield "id:${id"+ n + "}").mkString(s"${xxxxxxxxxxUrl}?q=(", " OR ", ")&wt=json")
+  }
+
+  val scn =
+    scenario("xxxxxxxx Autocommit")
+      .feed(randomFeeder, GeneratedRecordCount)
+      .feed(lineFeeder, GeneratedRecordCount)
+      .exec(
+        http("add a new record")
+          .post("/")
+          .basicAuth(zmdUpdateEndpointUsername, zmdUpdateEndpointPassword)
+          .header("Accept", "application/json")
+          .header("Keep-Alive", "15000000")
+          .body(ElFileBody(s"${GeneratedRecordCount}xxxxRecords.json"))
+          .asJson
+          .check(status.is(200))
+      )
+  setUp(
+    scn.inject(
+        //rampUsersPerSec(10) to (500) during (600 seconds)
+        constantUsersPerSec(500) during (60 seconds) randomized
+      ).protocols(httpProtocol)
+  )
+}

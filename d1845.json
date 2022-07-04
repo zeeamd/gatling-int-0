@@ -1,0 +1,47 @@
+{
+  "add": {
+    "doc": {
+      "id": "109876",
+      "url": "109876",
+      "content_en": "qwert",
+      "content": "qwert",
+      "custom_s_url": "poiuy",
+      "custom_s_local_url": "poiuy",
+      "title": "poiuy",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2022-05-06T23:51:34Z",
+      "custom_dt_modified": "2022-05-06T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2022-05-06T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2022-05-06T10:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  }
+}

@@ -1,0 +1,2252 @@
+{
+  "add": {
+    "doc": {
+      "id": "${id1}",
+      "url": "${id1}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_s_url": "${title1}",
+      "custom_s_local_url": "${title1}",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "title": "${title1}",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "content": "${description1}",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en",
+      "content_en": "${description1}"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id2}",
+      "url": "${id2}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_s_url": "${title2}",
+      "custom_s_local_url": "${title2}",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "title": "${title2}",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "content": "${description2}",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en",
+      "content_en": "${description2}"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id3}",
+      "url": "${id3}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_s_url": "${title3}",
+      "custom_s_local_url": "${title3}",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "title": "${title3}",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "content": "${description3}",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en",
+      "content_en": "${description3}"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc" : {
+      "id": "${id4}",
+      "url": "${id4}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_s_url": "${title4}",
+      "custom_s_local_url": "${title3}",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "title": "${title4}",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "content": "${description4}",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en",
+      "content_en": "${description4}"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id5}",
+      "url": "${id5}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_s_url": "${title5}",
+      "custom_s_local_url": "${title5}",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "title": "${title5}",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "content": "${description5}",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en",
+      "content_en": "${description5}"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id6}",
+      "url": "${id6}",
+      "content_en": "${description6}",
+      "content": "${description6}",
+      "custom_s_url": "${title6}",
+      "custom_s_local_url": "${title6}",
+      "title": "${title6}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id7}",
+      "url": "${id7}",
+      "content_en": "${description7}",
+      "content": "${description7}",
+      "custom_s_url": "${title7}",
+      "custom_s_local_url": "${title7}",
+      "title": "${title7}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id8}",
+      "url": "${id8}",
+      "content_en": "${description8}",
+      "content": "${description8}",
+      "custom_s_url": "${title8}",
+      "custom_s_local_url": "${title8}",
+      "title": "${title8}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id9}",
+      "url": "${id9}",
+      "content_en": "${description9}",
+      "content": "${description9}",
+      "custom_s_url": "${title9}",
+      "custom_s_local_url": "${title9}",
+      "title": "${title9}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id10}",
+      "url": "${id10}",
+      "content_en": "${description10}",
+      "content": "${description10}",
+      "custom_s_url": "${title10}",
+      "custom_s_local_url": "${title10}",
+      "title": "${title10}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id11}",
+      "url": "${id11}",
+      "content_en": "${description11}",
+      "content": "${description11}",
+      "custom_s_url": "${title11}",
+      "custom_s_local_url": "${title11}",
+      "title": "${title11}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id12}",
+      "url": "${id12}",
+      "content_en": "${description12}",
+      "content": "${description12}",
+      "custom_s_url": "${title12}",
+      "custom_s_local_url": "${title12}",
+      "title": "${title12}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id13}",
+      "url": "${id13}",
+      "content_en": "${description13}",
+      "content": "${description13}",
+      "custom_s_url": "${title13}",
+      "custom_s_local_url": "${title13}",
+      "title": "${title13}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id14}",
+      "url": "${id14}",
+      "content_en": "${description14}",
+      "content": "${description14}",
+      "custom_s_url": "${title14}",
+      "custom_s_local_url": "${title14}",
+      "title": "${title14}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id15}",
+      "url": "${id15}",
+      "content_en": "${description15}",
+      "content": "${description15}",
+      "custom_s_url": "${title15}",
+      "custom_s_local_url": "${title15}",
+      "title": "${title15}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id16}",
+      "url": "${id16}",
+      "content_en": "${description16}",
+      "content": "${description16}",
+      "custom_s_url": "${title16}",
+      "custom_s_local_url": "${title16}",
+      "title": "${title16}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id17}",
+      "url": "${id17}",
+      "content_en": "${description17}",
+      "content": "${description17}",
+      "custom_s_url": "${title17}",
+      "custom_s_local_url": "${title17}",
+      "title": "${title17}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id18}",
+      "url": "${id18}",
+      "content_en": "${description18}",
+      "content": "${description18}",
+      "custom_s_url": "${title18}",
+      "custom_s_local_url": "${title18}",
+      "title": "${title18}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id19}",
+      "url": "${id19}",
+      "content_en": "${description19}",
+      "content": "${description19}",
+      "custom_s_url": "${title19}",
+      "custom_s_local_url": "${title19}",
+      "title": "${title19}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id20}",
+      "url": "${id20}",
+      "content_en": "${description20}",
+      "content": "${description20}",
+      "custom_s_url": "${title20}",
+      "custom_s_local_url": "${title20}",
+      "title": "${title20}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id21}",
+      "url": "${id21}",
+      "content_en": "${description21}",
+      "content": "${description21}",
+      "custom_s_url": "${title21}",
+      "custom_s_local_url": "${title21}",
+      "title": "${title21}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id22}",
+      "url": "${id22}",
+      "content_en": "${description22}",
+      "content": "${description22}",
+      "custom_s_url": "${title22}",
+      "custom_s_local_url": "${title22}",
+      "title": "${title22}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id23}",
+      "url": "${id23}",
+      "content_en": "${description23}",
+      "content": "${description23}",
+      "custom_s_url": "${title23}",
+      "custom_s_local_url": "${title23}",
+      "title": "${title23}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id24}",
+      "url": "${id24}",
+      "content_en": "${description24}",
+      "content": "${description24}",
+      "custom_s_url": "${title24}",
+      "custom_s_local_url": "${title24}",
+      "title": "${title24}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id25}",
+      "url": "${id25}",
+      "content_en": "${description25}",
+      "content": "${description25}",
+      "custom_s_url": "${title25}",
+      "custom_s_local_url": "${title25}",
+      "title": "${title25}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id26}",
+      "url": "${id26}",
+      "content_en": "${description26}",
+      "content": "${description26}",
+      "custom_s_url": "${title26}",
+      "custom_s_local_url": "${title26}",
+      "title": "${title26}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id27}",
+      "url": "${id27}",
+      "content_en": "${description27}",
+      "content": "${description27}",
+      "custom_s_url": "${title27}",
+      "custom_s_local_url": "${title27}",
+      "title": "${title27}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id28}",
+      "url": "${id28}",
+      "content_en": "${description28}",
+      "content": "${description28}",
+      "custom_s_url": "${title28}",
+      "custom_s_local_url": "${title28}",
+      "title": "${title28}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id29}",
+      "url": "${id29}",
+      "content_en": "${description29}",
+      "content": "${description29}",
+      "custom_s_url": "${title29}",
+      "custom_s_local_url": "${title29}",
+      "title": "${title29}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id30}",
+      "url": "${id30}",
+      "content_en": "${description30}",
+      "content": "${description30}",
+      "custom_s_url": "${title30}",
+      "custom_s_local_url": "${title30}",
+      "title": "${title30}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id31}",
+      "url": "${id31}",
+      "content_en": "${description31}",
+      "content": "${description31}",
+      "custom_s_url": "${title31}",
+      "custom_s_local_url": "${title31}",
+      "title": "${title31}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id32}",
+      "url": "${id32}",
+      "content_en": "${description32}",
+      "content": "${description32}",
+      "custom_s_url": "${title32}",
+      "custom_s_local_url": "${title32}",
+      "title": "${title32}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id33}",
+      "url": "${id33}",
+      "content_en": "${description33}",
+      "content": "${description33}",
+      "custom_s_url": "${title33}",
+      "custom_s_local_url": "${title33}",
+      "title": "${title33}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id34}",
+      "url": "${id34}",
+      "content_en": "${description34}",
+      "content": "${description34}",
+      "custom_s_url": "${title34}",
+      "custom_s_local_url": "${title34}",
+      "title": "${title34}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id35}",
+      "url": "${id35}",
+      "content_en": "${description35}",
+      "content": "${description35}",
+      "custom_s_url": "${title35}",
+      "custom_s_local_url": "${title35}",
+      "title": "${title35}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id36}",
+      "url": "${id36}",
+      "content_en": "${description36}",
+      "content": "${description36}",
+      "custom_s_url": "${title36}",
+      "custom_s_local_url": "${title36}",
+      "title": "${title36}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id37}",
+      "url": "${id37}",
+      "content_en": "${description37}",
+      "content": "${description37}",
+      "custom_s_url": "${title37}",
+      "custom_s_local_url": "${title37}",
+      "title": "${title37}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id38}",
+      "url": "${id38}",
+      "content_en": "${description38}",
+      "content": "${description38}",
+      "custom_s_url": "${title38}",
+      "custom_s_local_url": "${title38}",
+      "title": "${title38}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id39}",
+      "url": "${id39}",
+      "content_en": "${description39}",
+      "content": "${description39}",
+      "custom_s_url": "${title39}",
+      "custom_s_local_url": "${title39}",
+      "title": "${title39}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id40}",
+      "url": "${id40}",
+      "content_en": "${description40}",
+      "content": "${description40}",
+      "custom_s_url": "${title40}",
+      "custom_s_local_url": "${title40}",
+      "title": "${title40}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id41}",
+      "url": "${id41}",
+      "content_en": "${description41}",
+      "content": "${description41}",
+      "custom_s_url": "${title41}",
+      "custom_s_local_url": "${title41}",
+      "title": "${title41}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id42}",
+      "url": "${id42}",
+      "content_en": "${description42}",
+      "content": "${description42}",
+      "custom_s_url": "${title42}",
+      "custom_s_local_url": "${title42}",
+      "title": "${title42}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id43}",
+      "url": "${id43}",
+      "content_en": "${description43}",
+      "content": "${description43}",
+      "custom_s_url": "${title43}",
+      "custom_s_local_url": "${title43}",
+      "title": "${title43}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id44}",
+      "url": "${id44}",
+      "content_en": "${description44}",
+      "content": "${description44}",
+      "custom_s_url": "${title44}",
+      "custom_s_local_url": "${title44}",
+      "title": "${title44}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id45}",
+      "url": "${id45}",
+      "content_en": "${description45}",
+      "content": "${description45}",
+      "custom_s_url": "${title45}",
+      "custom_s_local_url": "${title45}",
+      "title": "${title45}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id46}",
+      "url": "${id46}",
+      "content_en": "${description46}",
+      "content": "${description46}",
+      "custom_s_url": "${title46}",
+      "custom_s_local_url": "${title46}",
+      "title": "${title46}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id47}",
+      "url": "${id47}",
+      "content_en": "${description47}",
+      "content": "${description47}",
+      "custom_s_url": "${title47}",
+      "custom_s_local_url": "${title47}",
+      "title": "${title47}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id48}",
+      "url": "${id48}",
+      "content_en": "${description48}",
+      "content": "${description48}",
+      "custom_s_url": "${title48}",
+      "custom_s_local_url": "${title48}",
+      "title": "${title48}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id49}",
+      "url": "${id49}",
+      "content_en": "${description49}",
+      "content": "${description49}",
+      "custom_s_url": "${title49}",
+      "custom_s_local_url": "${title49}",
+      "title": "${title49}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  },
+  "add": {
+    "doc": {
+      "id": "${id50}",
+      "url": "${id50}",
+      "content_en": "${description50}",
+      "content": "${description50}",
+      "custom_s_url": "${title50}",
+      "custom_s_local_url": "${title50}",
+      "title": "${title50}",
+      "custom_i_asset_id": 33,
+      "custom_i_template_id": 2,
+      "custom_s_template_label": "Label",
+      "custom_dt_created": "2018-04-27T23:51:34Z",
+      "custom_dt_modified": "2019-03-05T20:01:09Z",
+      "custom_s_region": "en",
+      "custom_s_environment": "DEV",
+      "custom_s_sitefolder": "XXX",
+      "custom_s_division": "XXX",
+      "custom_b_exclude_from_site_xxxxxx": false,
+      "custom_s_type": "generic XML",
+      "custom_s_title": "XXX",
+      "custom_dt_meta_publish_date": "2011-02-24T05:01:00Z",
+      "custom_s_summary": "",
+      "custom_ss_theme": [
+        "RRR"
+      ],
+      "custom_ss_theme_full": [
+        "0/Commodities",
+        "1/Commodities/Energy",
+        "2/Commodities/Energy/Oil"
+      ],
+      "custom_ss_tags": [
+        "Global"
+      ],
+      "custom_ss_location": [
+        "Global"
+      ],
+      "custom_ss_contenttype": [
+        "Subscriber Notes"
+      ],
+      "custom_dt_published": "2019-04-20T04:39:33Z",
+      "language": "en"
+    },
+    "overwrite": true
+  }
+}

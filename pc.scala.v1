@@ -1,0 +1,29 @@
+package xxxxxxxxx
+
+import scala.concurrent.duration._
+
+import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+import io.gatling.jdbc.Predef._
+
+class xxxxxxxxxserver extends Simulation {
+
+	val httpProtocol = http
+		.basicAuth("user","pw")
+		.baseUrl("https://xxxxxxxxx-dev.pc-acs.com")
+		.userAgentHeader("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36")
+
+	val headers_0 = Map(
+		"Accept" -> "text/html")
+  
+	val scn = scenario("xxxxxxxxxserver")
+		.exec(http("request_1")
+			.get("/")
+			.headers(headers_0))
+                                          
+	setUp(
+         scn.inject(
+          constantUsersPerSec(100) during (600 seconds) randomized,
+         ).protocols(httpProtocol)
+       )
+
